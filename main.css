@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+  font-family: 'Oleo Script', cursive;
+}
+body{
+	background: url(http://4.bp.blogspot.com/-hZ9Akej5BRc/Tm1mImb4jpI/AAAAAAAADZY/oZgBFdzOcNA/s1600/fondo_de_estrellas%25252B%25255B1280x768%25255D.jpg) no-repeat center;
+	background-size: cover;
+	height: 620px;
+  background-attachment: fixed;
+}
+.form-group label:hover
+{
+  color:#110c4e;
+}
+.sombra
+{
+  background-color:rgba(128,128,128,0.8);
+  width:980px;
+  height:130px;
+  border: 3px solid ;
+  text-align: center;
+  
+}
+.margen{
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+}
+.lista
+{
+    color:white;
+    font-size: 25px;
+    text-align: left;
+}
+.t-letra
+{
+font-size:30px;  
+}
+.container{
+	margin-top: 20px;
+	padding-top: 10px;
+
+	height: 600px;
+	max-width: 100%;
+}
+.container h1 {
+	color: white;
+}
+.container p {
+	color: white;
+}
+.resultado .frase{
+	font-size: 40px;
+}
+.form-group{
+	color: white;
+}
+.resultado{
+	color: white;
+}
+.resultado h4{
+	color: white;
+}
+.row .btn{
+	margin-top: 40px;
+}
+
+.result{
+	background-color: rgba(64,26,89,0.7);
+	padding-right: 12px;
+  color: #faffb7;
+}
+.form-group label:hover
+{
+  color:#110c4e;
+}
+.enunciado{
+  background: url(E:/img/enu1.png) no-repeat center;
+	background-size: cover;
+	height: 620px;
+  background-attachment: fixed;
+}
+  
+}
